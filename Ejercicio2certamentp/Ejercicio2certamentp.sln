@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2certamentp", "Ejercicio2certamentp\Ejercicio2certamentp.csproj", "{99D5595E-0C95-4ABF-A567-C10548A5C00E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D5595E-0C95-4ABF-A567-C10548A5C00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D5595E-0C95-4ABF-A567-C10548A5C00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D5595E-0C95-4ABF-A567-C10548A5C00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D5595E-0C95-4ABF-A567-C10548A5C00E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE5AB34B-D2C3-4859-8DA1-93690DE5C2C9}
+	EndGlobalSection
+EndGlobal

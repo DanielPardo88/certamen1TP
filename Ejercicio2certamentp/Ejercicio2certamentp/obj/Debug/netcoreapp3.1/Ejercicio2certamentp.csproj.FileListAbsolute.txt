@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\bin\Debug\netcoreapp3.1\Ejercicio2certamentp.exe
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\bin\Debug\netcoreapp3.1\Ejercicio2certamentp.deps.json
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\bin\Debug\netcoreapp3.1\Ejercicio2certamentp.runtimeconfig.json
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\bin\Debug\netcoreapp3.1\Ejercicio2certamentp.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\bin\Debug\netcoreapp3.1\Ejercicio2certamentp.dll
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\bin\Debug\netcoreapp3.1\Ejercicio2certamentp.pdb
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\obj\Debug\netcoreapp3.1\Ejercicio2certamentp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\obj\Debug\netcoreapp3.1\Ejercicio2certamentp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\obj\Debug\netcoreapp3.1\Ejercicio2certamentp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\obj\Debug\netcoreapp3.1\Ejercicio2certamentp.AssemblyInfo.cs
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\obj\Debug\netcoreapp3.1\Ejercicio2certamentp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\obj\Debug\netcoreapp3.1\Ejercicio2certamentp.dll
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\obj\Debug\netcoreapp3.1\Ejercicio2certamentp.pdb
+C:\Users\danie\source\repos\Ejercicio2certamentp\Ejercicio2certamentp\obj\Debug\netcoreapp3.1\Ejercicio2certamentp.genruntimeconfig.cache
